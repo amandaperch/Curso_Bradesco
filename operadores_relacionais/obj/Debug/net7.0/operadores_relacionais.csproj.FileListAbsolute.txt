@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/bin/Debug/net7.0/operadores_relacionais
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/bin/Debug/net7.0/operadores_relacionais.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/bin/Debug/net7.0/operadores_relacionais.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/bin/Debug/net7.0/operadores_relacionais.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/bin/Debug/net7.0/operadores_relacionais.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/refint/operadores_relacionais.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/operadores_relacionais.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_relacionais/obj/Debug/net7.0/ref/operadores_relacionais.dll

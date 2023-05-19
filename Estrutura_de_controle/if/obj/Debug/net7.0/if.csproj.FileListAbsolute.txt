@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/bin/Debug/net7.0/if
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/bin/Debug/net7.0/if.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/bin/Debug/net7.0/if.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/bin/Debug/net7.0/if.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/bin/Debug/net7.0/if.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/refint/if.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/if.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/if/obj/Debug/net7.0/ref/if.dll

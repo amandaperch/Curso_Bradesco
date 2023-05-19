@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/bin/Debug/net7.0/operadores_unários
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/bin/Debug/net7.0/operadores_unários.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/bin/Debug/net7.0/operadores_unários.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/bin/Debug/net7.0/operadores_unários.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/bin/Debug/net7.0/operadores_unários.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/refint/operadores_unários.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/operadores_unários.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_unários/obj/Debug/net7.0/ref/operadores_unários.dll

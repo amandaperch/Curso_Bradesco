@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/bin/Debug/net7.0/Leitura_de_notas
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/bin/Debug/net7.0/Leitura_de_notas.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/bin/Debug/net7.0/Leitura_de_notas.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/bin/Debug/net7.0/Leitura_de_notas.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/bin/Debug/net7.0/Leitura_de_notas.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/refint/Leitura_de_notas.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/Leitura_de_notas.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Leitura_de_notas/obj/Debug/net7.0/ref/Leitura_de_notas.dll

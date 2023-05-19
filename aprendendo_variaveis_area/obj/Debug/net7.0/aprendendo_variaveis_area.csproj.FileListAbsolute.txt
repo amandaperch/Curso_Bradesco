@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/bin/Debug/net7.0/aprendendo_variaveis_area
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/bin/Debug/net7.0/aprendendo_variaveis_area.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/bin/Debug/net7.0/aprendendo_variaveis_area.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/bin/Debug/net7.0/aprendendo_variaveis_area.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/bin/Debug/net7.0/aprendendo_variaveis_area.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/refint/aprendendo_variaveis_area.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/aprendendo_variaveis_area.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/aprendendo_variaveis_area/obj/Debug/net7.0/ref/aprendendo_variaveis_area.dll

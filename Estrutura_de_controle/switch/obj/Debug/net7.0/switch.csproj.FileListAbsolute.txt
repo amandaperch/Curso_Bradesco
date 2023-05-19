@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/bin/Debug/net7.0/switch
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/bin/Debug/net7.0/switch.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/bin/Debug/net7.0/switch.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/bin/Debug/net7.0/switch.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/bin/Debug/net7.0/switch.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/refint/switch.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/switch.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/switch/obj/Debug/net7.0/ref/switch.dll

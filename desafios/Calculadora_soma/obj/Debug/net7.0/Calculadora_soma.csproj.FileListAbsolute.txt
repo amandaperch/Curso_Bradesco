@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/bin/Debug/net7.0/Calculadora_soma
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/bin/Debug/net7.0/Calculadora_soma.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/bin/Debug/net7.0/Calculadora_soma.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/bin/Debug/net7.0/Calculadora_soma.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/bin/Debug/net7.0/Calculadora_soma.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/refint/Calculadora_soma.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/Calculadora_soma.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/desafios/Calculadora_soma/obj/Debug/net7.0/ref/Calculadora_soma.dll

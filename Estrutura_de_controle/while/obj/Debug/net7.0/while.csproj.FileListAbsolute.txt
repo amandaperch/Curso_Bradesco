@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/bin/Debug/net7.0/while
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/bin/Debug/net7.0/while.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/bin/Debug/net7.0/while.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/bin/Debug/net7.0/while.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/bin/Debug/net7.0/while.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/refint/while.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/while.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Estrutura_de_controle/while/obj/Debug/net7.0/ref/while.dll

@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/bin/Debug/net7.0/hello-word
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/bin/Debug/net7.0/hello-word.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/bin/Debug/net7.0/hello-word.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/bin/Debug/net7.0/hello-word.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/bin/Debug/net7.0/hello-word.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/refint/hello-word.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/hello-word.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/hello-word/obj/Debug/net7.0/ref/hello-word.dll

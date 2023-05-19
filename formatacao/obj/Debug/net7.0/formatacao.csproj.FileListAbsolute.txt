@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/bin/Debug/net7.0/formatacao
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/bin/Debug/net7.0/formatacao.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/bin/Debug/net7.0/formatacao.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/bin/Debug/net7.0/formatacao.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/bin/Debug/net7.0/formatacao.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/refint/formatacao.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/formatacao.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/formatacao/obj/Debug/net7.0/ref/formatacao.dll

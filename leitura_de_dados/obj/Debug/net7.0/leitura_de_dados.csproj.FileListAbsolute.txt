@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/bin/Debug/net7.0/leitura_de_dados
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/bin/Debug/net7.0/leitura_de_dados.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/bin/Debug/net7.0/leitura_de_dados.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/bin/Debug/net7.0/leitura_de_dados.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/bin/Debug/net7.0/leitura_de_dados.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/refint/leitura_de_dados.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/leitura_de_dados.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/leitura_de_dados/obj/Debug/net7.0/ref/leitura_de_dados.dll

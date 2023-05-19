@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/bin/Debug/net7.0/operadores_logicos
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/bin/Debug/net7.0/operadores_logicos.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/bin/Debug/net7.0/operadores_logicos.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/bin/Debug/net7.0/operadores_logicos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/bin/Debug/net7.0/operadores_logicos.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/refint/operadores_logicos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/operadores_logicos.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/operadores_logicos/obj/Debug/net7.0/ref/operadores_logicos.dll

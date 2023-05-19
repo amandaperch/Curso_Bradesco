@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/bin/Debug/net7.0/conversão_numero_da_casa
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/bin/Debug/net7.0/conversão_numero_da_casa.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/bin/Debug/net7.0/conversão_numero_da_casa.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/bin/Debug/net7.0/conversão_numero_da_casa.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/bin/Debug/net7.0/conversão_numero_da_casa.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/refint/conversão_numero_da_casa.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/conversão_numero_da_casa.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/conversão_numero_da_casa/obj/Debug/net7.0/ref/conversão_numero_da_casa.dll
