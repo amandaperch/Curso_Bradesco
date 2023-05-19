@@ -14,16 +14,13 @@
       string nomeAluno = Console.ReadLine();
 
       Console.WriteLine("Digite a primeira nota:");
-      string n1 = Console.ReadLine();
-      double nota1 = Convert.ToDouble(n1);
+      double nota1 = Convert.ToDouble(Console.ReadLine());
 
       Console.WriteLine("Digite a segunda nota:");
-      string n2 = Console.ReadLine();
-      double nota2 = Convert.ToDouble(n2);
+      double nota2 = Convert.ToDouble(Console.ReadLine());
 
       Console.WriteLine("Digite a terceira nota:");
-      string n3 = Console.ReadLine();
-      double nota3 = Convert.ToDouble(n3);
+      double nota3 = Convert.ToDouble(Console.ReadLine());
 
       media = (nota1 + nota2 + nota3) / 3;
       Console.WriteLine("A média do(a) aluno(a) {0} é: {1}", nomeAluno, media);

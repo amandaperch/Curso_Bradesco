@@ -6,8 +6,7 @@
     static void Main()
     {
       Console.WriteLine("Qual a nota você da para o prato? 0, 5, ou 10");
-      string notaString = Console.ReadLine();
-      int nota = Convert.ToInt32(notaString);
+      int nota = Convert.ToInt32(Console.ReadLine());
 
       switch(nota)
       {
