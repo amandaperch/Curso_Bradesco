@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/bin/Debug/net7.0/parametros_por_referencia
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/bin/Debug/net7.0/parametros_por_referencia.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/bin/Debug/net7.0/parametros_por_referencia.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/bin/Debug/net7.0/parametros_por_referencia.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/bin/Debug/net7.0/parametros_por_referencia.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/refint/parametros_por_referencia.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/parametros_por_referencia.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/parametros_por_referencia/obj/Debug/net7.0/ref/parametros_por_referencia.dll
