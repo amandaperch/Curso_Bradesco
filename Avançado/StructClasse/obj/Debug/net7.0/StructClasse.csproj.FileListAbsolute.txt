@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/bin/Debug/net7.0/StructClasse
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/bin/Debug/net7.0/StructClasse.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/bin/Debug/net7.0/StructClasse.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/bin/Debug/net7.0/StructClasse.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/bin/Debug/net7.0/StructClasse.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/refint/StructClasse.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/StructClasse.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/StructClasse/obj/Debug/net7.0/ref/StructClasse.dll
