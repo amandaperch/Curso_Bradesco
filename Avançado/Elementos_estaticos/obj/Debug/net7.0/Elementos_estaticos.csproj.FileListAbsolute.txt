@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/bin/Debug/net7.0/Elementos_estaticos
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/bin/Debug/net7.0/Elementos_estaticos.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/bin/Debug/net7.0/Elementos_estaticos.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/bin/Debug/net7.0/Elementos_estaticos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/bin/Debug/net7.0/Elementos_estaticos.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/refint/Elementos_estaticos.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/Elementos_estaticos.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/Elementos_estaticos/obj/Debug/net7.0/ref/Elementos_estaticos.dll
