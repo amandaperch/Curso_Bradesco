@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/bin/Debug/net7.0/enum
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/bin/Debug/net7.0/enum.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/bin/Debug/net7.0/enum.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/bin/Debug/net7.0/enum.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/bin/Debug/net7.0/enum.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/refint/enum.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/enum.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/enum/obj/Debug/net7.0/ref/enum.dll
