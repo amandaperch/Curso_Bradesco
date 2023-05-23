@@ -1,0 +1,15 @@
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/bin/Debug/net7.0/construtores
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/bin/Debug/net7.0/construtores.deps.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/bin/Debug/net7.0/construtores.runtimeconfig.json
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/bin/Debug/net7.0/construtores.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/bin/Debug/net7.0/construtores.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.csproj.AssemblyReference.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.AssemblyInfoInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.AssemblyInfo.cs
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.csproj.CoreCompileInputs.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/refint/construtores.dll
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.pdb
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/construtores.genruntimeconfig.cache
+/home/AmandaPerch/Documentos/Curso_Bradesco/Linguagem_de_programacao_C#/Exercicios/Avançado/construtores/obj/Debug/net7.0/ref/construtores.dll
